@@ -6,6 +6,8 @@
 
 ![image](https://github.com/user-attachments/assets/66a90281-8d47-45ac-bfee-4445a0870c8b)
 
+![image](https://github.com/user-attachments/assets/47f9fcfc-2854-4491-a7aa-cdef0b66d600)
+
 
 
 ## 1. Physical Topology
