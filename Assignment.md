@@ -55,6 +55,6 @@ All end-user devices are set to use DHCP and access the network through SSID `Ho
 
 The configuration for my wireless router are backed up and saved in the Packet Tracer file. With Packet Tracer, this provides a demo version of my home network. I can always revisit it to make changes or update my network if I need to.
 
-## Apple Password Application
+## 6.Apple Password Application
 
 Starting in iOS 18, iPadOS 18, macOS Sequoia, and visionOS 2, the Passwords app aids in password, passkey, and verification code management. Strong passwords may be generated and saved; you can exchange credentials with friends and relatives, personalize passwords, and more. Passwords also warn you of typical password flaws include readily guessed passwords you have used several times for several accounts, or have shown up in known data dumps.
