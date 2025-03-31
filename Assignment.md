@@ -2,6 +2,9 @@
 
 # Home Network Documentation
 
+![image](https://github.com/user-attachments/assets/c35316bf-cbdd-47cd-8036-751e73c7e0e1)
+
+
 ## 1. Physical Topology
 This home network is organized around a central wireless router positioned in the Sitting Room. Devices are spread throughout three areas of the house:
 
